@@ -94,6 +94,8 @@ Precios de las entradas para personas con edades 8, 18, 25, 44, 64, 65, 70 (prec
 3.0, 3.0, 6.0, 6.0, 6.0, 3.0, 3.0
 ```
 
+
+
 ## Ejercicio 7
 Implemente una función ``juego_adivina_numero`` que implemente el juego de adivinar un número aleatoriamente elegido. La función irá pidiendo números por teclado e informará al usuario de si el número que debe adivinar es mayor o menor que el introducido. Una vez que el usuario acierte el número, el juego acabará.
 
